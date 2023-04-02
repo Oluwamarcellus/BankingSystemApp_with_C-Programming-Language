@@ -1,5 +1,5 @@
 #PLEASE READ ME! 
-#BankingSystemApp_with_C-Programming-Language
+[TO TEST APP ON REPL, CLICK ME](https://replit.com/@Oluwamarc1/Bank-App#minibankproject.c)
 # This is a mini bank app that performs simple bank actions like depositing funds, withdrawals and displaying user's bank profile
 # Some cool features of the app are:
   1. Users cannot withdraw beyond their account balance
